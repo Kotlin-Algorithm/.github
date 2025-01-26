@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AlgorithmStudy&fontSize=70" />
-
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -24,7 +21,7 @@
 |---|:---:|:---:|:---:|:---:|:---:|
 |이름|권동휘|홍희표|안혜영|이수빈|이가영|
 |주력언어|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|</span>|
-|티어| [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqlsdld1)](https://solved.ac/tnqlsdld1)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hong227)](https://solved.ac/hong227)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd5687)](https://solved.ac/asd5687)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=02ggang9)](https://solved.ac/02ggang9)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=danmi2857)](https://solved.ac/danmi2857)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=honge1122)](https://solved.ac/honge1122)|
+|티어| [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqlsdld1)](https://solved.ac/tnqlsdld1)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hong227)](https://solved.ac/hong227)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd5687)](https://solved.ac/asd5687)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=02ggang9)](https://solved.ac/02ggang9)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=)](https://solved.ac/)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=)](https://solved.ac/)|
 
 
 # **[ 👩‍💻 ‍스터디 참여 이력 ]**
@@ -36,8 +33,10 @@
 
 |일시|권동휘|홍희표|안혜영|이수빈|이가영|
 |---|:---:|:---:|:---:|:---:|:---:|
-|[2025.01.11]|✅|✅|✅|✅||
+|[2025.01.11]|✅|✅|✅|✅|:octocat:|
 |[2025.01.18]|✅|✅|✅|✅|✅|
+|[2025.01.25]|✅|✅|✅|✅|❌|
+|[2025.02.01]||||||
 
 
 
@@ -55,21 +54,6 @@
        ⎮    ⎮       ⎮   ├ 📃페어 문제 풀이          ex) Q1919_Huipyo_Hong_X_Donghuii_Kwon
        ⎮    ⎮       ⎮   ├ 📃페어 문제 풀이          ex) Q1919_Huipyo_Hong
        ├ 📝README.md (스터디 관련 설명 README)
-
-
-### **📌 파일 규칙**
-
-       1. 파일명 양식: 문제번호_풀이자 이름
-   
-           ex) Q7777_Huipyo_Hong.java
-
-       2. 해당 풀이에 대한 시간 및 메모리 사용량 기재
-           
-           ex) /**
-                *  [ 효율성 ]
-                *  - 메모리: 20176KB
-                *  - 시간 : 404ms
-               */
 
 ### **📌 문제 선정 방법**
 - 한 사람당 1문제씩 선택.
@@ -91,18 +75,10 @@
 
 |No|플랫폼|문제번호|문제명|난이도|
 |-|----|-----|-----|-----|
-|1|프로그래머스|[10845](https://school.programmers.co.kr/learn/courses/30/lessons/43164?language=kotlin)|타겟넘버|Level 2|
+|1|프로그래머스|[10845](https://school.programmers.co.kr/learn/courses/30/lessons/43164?language=kotlin)|타겟넘버|레벨 2|
 |2|백준|[1926](https://www.acmicpc.net/problem/1926)|그림|Silver 1|
 |3|백준|[21736](https://www.acmicpc.net/problem/21736)|헌내기는 친구가 필요해|Silver 2|
 |4|헤커랭크|[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem)|Roads and Libraries|Graph Theory|
-
-# **[ 📍 한줄 회고 | 배운점 ]**
-
-- 권동휘: 
-- 홍희표:
-- 안혜영:
-- 이수빈:
-- 이가영: 
 -----------------------------------
 ### [ 3주차 ]
 - 분류:[BFS]
@@ -110,17 +86,20 @@
 
 |No|플랫폼|문제번호|문제명|난이도|
 |-|----|-----|-----|-----|
-|1|백준|[10917](https://www.acmicpc.net/problem/10917)|Your Life|Level 2|
+|1|백준|[10917](https://www.acmicpc.net/problem/10917)|Your Life|레벨 2|
 |2|백준|[7562](https://www.acmicpc.net/problem/7562)|나이트이동|Silver 1|
 |3|백준|[2644](https://www.acmicpc.net/problem/2644)|촌수계산|Silver 2|
 |4|백준|[14248](https://www.acmicpc.net/problem/14248)|점프 점프|Silver 2|
 |4|헤커랭크|[BFS](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem)|Shortest Reach in a Graph|Shortest Reach in a Graph|
-
-# **[ 📍 한줄 회고 | 배운점 ]**
-
-- 권동휘: 
-- 홍희표:
-- 안혜영:
-- 이수빈:
-- 이가영: 
 -----------------------------------
+### [ 4주차 ]
+- 분류:[그래프이론]
+- 일자: 2025.02.01
+
+|No|플랫폼|문제번호|문제명|난이도|
+|-|----|-----|-----|-----|
+|1|백준|[7576](https://www.acmicpc.net/problem/7576)|토마토|Gold 5|
+|2|프로그래머스|[1844](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|게임 맵 최단거리|레벨 2|
+|3|백준|[2667](https://www.acmicpc.net/problem/2667)|단지번호붙이기|Silver 1|
+|4|백준|[1240](https://www.acmicpc.net/problem/1240)|노드사이의 거리|Gold 5|
+|4|백준|[14502](https://www.acmicpc.net/problem/14502)|연구소|Gold 4|
