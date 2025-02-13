@@ -115,3 +115,14 @@
 |2|프로그래머스|[12978](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|배달|레벨 2|
 |3|백준|[23286](https://www.acmicpc.net/problem/23286)|허들 넘기|Gold 3|
 |4|백준|[1916](https://www.acmicpc.net/problem/1916)|최소비용 구하기|Gold 5|
+-----------------------------------
+### [ 6주차 ]
+- 분류:[이분탐색]
+- 일자: 2025.02.15
+
+|No|플랫폼|문제번호|문제명|난이도|
+|-|----|-----|-----|-----|
+|1|백준|[16401](https://www.acmicpc.net/problem/16401)|과자 나눠주기|Silver 2|
+|2|프로그래머스|[43238](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|입국심사|레벨 3|
+|3|백준|[2805](https://www.acmicpc.net/problem/2805)|나무 자르기|Silver 2|
+|4|백준|[1654](https://www.acmicpc.net/problem/1654)|랜선 자르기|Silver 2|
